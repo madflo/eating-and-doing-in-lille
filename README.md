@@ -29,6 +29,7 @@ Eating
 * Estaminet la vieille (the same) - old town - http://www.yelp.com/biz/estaminet-chez-la-vieille-lille
 * Berliner (burgers & wok, good quality/price ratio) - old town - http://www.yelp.com/biz/berliner-lille
 * Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
+* Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
 
 ### Other
 
@@ -44,5 +45,7 @@ Moving around Lille
 * Ghent (Belgium - by car) - http://en.wikipedia.org/wiki/Ghent
 * Bruges (Belgium - by train or car) - http://en.wikipedia.org/wiki/Brugges
 * Paris (use the train)
+* Bruxelles (use the train)
+* London (use the train)
 
 Book your train tickets from the whole world using http://www.raileurope.com !
