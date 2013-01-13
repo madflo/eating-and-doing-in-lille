@@ -23,8 +23,15 @@ Drinking
 Eating
 ------
 
+### Restaurants 
+
 * Au vieux de la vieille (local flemish foods) - old town - http://www.yelp.com/biz/au-vieux-de-la-vieille-lille
 * Estaminet la vieille (the same) - old town - http://www.yelp.com/biz/estaminet-chez-la-vieille-lille
+* Berliner (burgers & wok, good quality/price ratio) - old town - http://www.yelp.com/biz/berliner-lille
+* Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
+
+### Other
+
 * Meert (expensive pastries) - old town - http://www.yelp.com/biz/meert-tradition-lille
 * Boulangerie (pastries & bread  & local sweets) - old town - http://www.yelp.com/biz/val%C3%A9rie-et-rapha%C3%ABl-brier-lille-2
 * Kokoa (waffles & hot chocolate on hand-made ice cream) - old town - http://www.yelp.com/biz/kokoa-lille
