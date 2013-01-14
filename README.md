@@ -12,8 +12,14 @@ Art
 * LAM (modern art) - Metro+bus - http://www.musee-lam.fr/gb/
 
 
-Drinking
---------
+Tea, Coffee, Cakes (afternoons)
+-------------------------------
+
+* Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.fr/biz/elizabeths-lille
+* Chez Leontine - Free WiFi, lots of space - Solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
+
+Drinking (evening)
+------------------
 
 * Kremlin (vodka..) - old town - http://www.yelp.com/biz/le-kremlin-lille
 * La Capsule (one of the best bar for beers - IN THE WORLD) - old town - http://www.yelp.com/biz/la-capsule-lille
@@ -30,6 +36,8 @@ Eating
 * Berliner (burgers & wok, good quality/price ratio) - old town - http://www.yelp.com/biz/berliner-lille
 * Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
+* Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
+  
 
 ### Other
 
