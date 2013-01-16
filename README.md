@@ -25,6 +25,9 @@ Art
 * La Capsule (one of the best bar for beers - IN THE WORLD) - old town - http://www.yelp.com/biz/la-capsule-lille
 * L'illustration - http://www.yelp.com/biz/l-illustration-lille
 * Gare Saint Sauveur - http://www.yelp.com/biz/la-gare-saint-sauveur-lille
+* TamTam (cocktail) - http://www.yelp.com/biz/tam-tam-lille
+* Le Farafina (rhum..) http://www.yelp.com/biz/le-farafina-lille
+* La Part des Anges (wine) - old town - http://www.yelp.com/biz/la-part-des-anges-lille
 
 
 Eating
@@ -38,7 +41,8 @@ Eating
 * Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
 * Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
-  
+* Persepolis (iranian) - http://www.yelp.com/biz/persepolis-lille
+
 
 ### Other
 
