@@ -17,7 +17,7 @@ Art
 
 * Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.com/biz/elizabeths-lille
 * Chez Leontine - Free WiFi, lots of space - solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
-* Café Libres - WiFi and books - old town - http://www.yelp.com/biz/le-caf%C3%A9-livres-lille-2
+* Café Livres - WiFi and books - old town - http://www.yelp.com/biz/le-caf%C3%A9-livres-lille-2
 
 ### Drinking (evening)
 
